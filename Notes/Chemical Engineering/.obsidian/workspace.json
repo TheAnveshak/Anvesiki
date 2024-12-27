@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/EOS.md",
+                "file": "Chemical Engineering/ThermoDynamics/Thermo....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EOS"
+              "title": "Thermo..."
             }
           }
         ]
@@ -151,8 +151,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -179,24 +179,34 @@
   },
   "active": "44cb1edf2c0e304d",
   "lastOpenFiles": [
+    "Chemical Engineering/ThermoDynamics/Thermo....md",
+    "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/CSTR.md",
+    "Chemical Engineering/images/Pasted image 20241227122126.png",
+    "Untitled.md",
+    "Chemical Engineering/images/Pasted image 20241227105114.png",
+    "Chemical Engineering/Production Management/Yes Yes!!!!.md",
+    "Chemical Engineering/Chemical Engineering.md",
+    "Chemical Engineering/images",
+    "Untitled",
+    "images",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Mixtures.md",
+    "Chemical Engineering/Discrete Mathematics/Basics.md",
+    "Chemical Engineering/Discrete Mathematics/Complexity.md",
+    "Chemical Engineering/images/Pasted image 20241223113205.png",
+    "Chemical Engineering/images/Pasted image 20241011143916.png",
+    "Chemical Engineering/images/Pasted image 20241226100210.png",
+    "Chemical Engineering/images/Pasted image 20241226090322.png",
+    "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/PFR.md",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/EOS.md",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Phase Equilibrium in Mixtures.md",
-    "Chemical Engineering/Discrete Mathematics/Untitled.md",
-    "Chemical Engineering/Discrete Mathematics/Complexity.md",
     "Chemical Engineering/Unit Operations/Untitled.md",
-    "Pasted image 20241223113342.png",
-    "Pasted image 20241223113324.png",
-    "Pasted image 20241223113205.png",
-    "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/PFR.md",
+    "Chemical Engineering/images/Pasted image 20241223113342.png",
+    "Chemical Engineering/images/Pasted image 20241223113324.png",
     "Chemical Engineering/Unit Operations",
-    "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/CSTR.md",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Basic Concepts and Definitions.md",
     "Untitled.canvas",
-    "Chemical Engineering/Templates/latex_left_r.md.md",
-    "Chemical Engineering/Production Management/Yes Yes!!!!.md",
+    "Chemical Engineering/ThermoDynamics/Templates/latex_left_r.md.md",
     "Chemical Engineering/Production Management",
-    "Chemical Engineering/Chemical Engineering.md",
     "Chemical Engineering/Instrumentation and Process Dynamics/Process Dynamics.md",
     "Chemical Engineering/Instrumentation and Process Dynamics/Untitled.md",
     "Chemical Engineering/Instrumentation and Process Dynamics",
@@ -204,8 +214,6 @@
     "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering",
     "Chemical Engineering/Chemical Reaction Engineering/Untitled.md",
     "Chemical Engineering/Chemical Reaction Engineering",
-    "Chemical Engineering/ThermoDynamics/Thermo....md",
-    "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled 3.md",
@@ -215,13 +223,8 @@
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Will Name it Later....md",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Entropy.md",
     "Chemical Engineering/Design and Analysis of Algorithms/Untitled",
-    "Chemical Engineering/Discrete Mathematics",
-    "Chemical Engineering/Templates/latex_right_s.md.md",
-    "Chemical Engineering/Templates",
-    "Pasted image 20241107212002.png",
-    "Pasted image 20241011143916.png",
-    "Pasted image 20241011144242.png",
-    "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/EOS",
+    "Chemical Engineering/images/Pasted image 20241107212002.png",
+    "Chemical Engineering/images/Pasted image 20241011144242.png",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Untitled.canvas"
   ]
 }

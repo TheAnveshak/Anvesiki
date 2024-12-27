@@ -144,14 +144,74 @@ v_0\ [C_A\ (1+\varepsilon x_A) - C_{A0}] &= V
 $$
 
 
+## CSTR : variable volume and limiting variable
 
+$$
+\frac{x_A}{x_B} = \frac{z}{M}
+$$
+$$
+\frac{C_A}{C_{A0}} = \frac{1-x_A}{1+\varepsilon _A x_A} \quad\ ; \quad\ \frac{C_B}{C_{B0}} = \frac{1-x_B}{1-\varepsilon _B x_B}
+$$
+$$
+{\varepsilon _B} = \frac{M}{z}\varepsilon _A
+$$
+For, $A + zB \to z_1P$ 
+$$
+\frac{C_P}{C_{A0}} = \frac{M + z_1 x_A}{1 + \varepsilon _A x_A}
+$$
+![[Pasted image 20241226090322.png]]
+For, $x_A = 0$ $V = 100 + 200 + 100 = 400$
+at, $x_A = 1$  $V = -100 + 600 + 100 = 600$
+$\therefore\   \varepsilon_A = \frac{600-400}{400} =0.5$
+$\varepsilon_B =\frac{\varepsilon_A C_{B0}}{zC_{A0}} = \frac{1}{3}$
+$\frac{C_A}{C_{A0}} = \frac{1-x_A}{1+\varepsilon _A x_A} \implies \frac{40}{100} = \frac{1-x_A}{1+\frac{x_A}{2}} \implies x_A = 0.5$
+$\therefore x_B =\frac{zC_{A0}x_A}{C_{B0}} =  0.75\ \ \implies C_B = 40$   
 
+![[Pasted image 20241226100210.png]]
+ $\because$ constant pressure constant volume
+1. $x_B = 0.4,\ C_A=20,\ C_B=120$ 
+2. infeasible ig
+3. $\varepsilon_A = \frac{-2}{3}$
+4. infeasible solution
+![[Pasted image 20241227105114.png]]
+4.5. $\varepsilon_A = 0$ ; $\frac{C_A}{C_{A0}} = \frac{1-x_A}{1+\varepsilon_Ax_A} \frac{T_0P}{TP_0}$ $\implies \frac{20}{100} = \frac{1-x_A}{1}\frac{400 \times 3}{300 \times 4}\ \implies x_A= 0.8$
+	$\implies x_B = \frac{z}{M}x_A = 0.4$ 
+4.6. $\varepsilon_A = \frac{2}{3}$ ; $\frac{C_A}{C_{A0}} = \frac{1-x_A}{1+\varepsilon_Ax_A} \frac{T_0P}{TP_0}$ 
+	$\implies \frac{20}{100} = \frac{1-x_A}{1+\frac{2}{3}x_A}\frac{1000 \times 5}{400 \times 4}\\ \implies x_A= 0.818\ \implies x_B = 0.409 \implies C_B =130$ 
+4.7. *Commercial Popcorn Popping Popcorn Popper* :)  
+	$28 = 1(1+\frac{31-1}{1}x_A) \implies x_A=0.9$ 90% of popcorn popped 
 
+$$
+aA +bB \to cC + dD
+$$
 
+| Initial <br>t = ==0== |                                      Change                                       |                                     Final<br>t = t                                     |
+| :-------------------: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+|       $N_{A0}$        |                                   $-N_{A0}x_A$                                    |                                   $N_{A0}-N_{A0}x_A$                                   |
+|       $N_{B0}$        |                              $-\frac{b}{a}N_{A0}x_A$                              |                             $N_{A0}-\frac{b}{a}N_{A0}x_A$                              |
+|       $N_{C0}$        |                              $\frac{c}{a}N_{A0}x_A$                               |                                 $\frac{c}{a}N_{A0}x_A$                                 |
+|       $N_{D0}$        |                              $\frac{d}{a}N_{A0}x_D$                               |                                 $\frac{d}{a}N_{A0}x_A$                                 |
+|       $N_{I0}$        |                                         -                                         |                                        $N_{I0}$                                        |
+|       $N_{T0}$        | $-N_{A0}x_A$$-\frac{b}{a}N_{A0}x_A$+$\frac{c}{a}N_{A0}x_A$+$\frac{d}{a}N_{A0}x_A$ | $N_{T0} + N_{A0}x_A\left[\frac{c}{a} + \frac{d}{a}-1- \frac{b}{a}\right]_{_{=\delta}}$ |
+$$
+C_A = \frac{N_{A0}(1-x_A)}{V}\ ;\ C_B = \frac{N_{B0}-\frac{b}{a}N_{A0}x_A}{V}\ ;\ C_C = \frac{N_{C0}-\frac{c}{a}N_{0}x_A}{V}\ ;\ C_D = \frac{N_{D0}-\frac{d}{a}N_{A0}x_A}{V}\
+$$
 
+$$
+\begin{align*}
+\frac{N_T}{N_{T0}} &= \frac{N_{T0}+ \delta N_{A0}x_A}{N_{T0}}\\
+\\
+&= 1+ \delta \left(\frac{N_{A0}}{N_{T0}}\right)x_A\\
+\\
+\frac{N_T}{N_{T0}} &= 1 + \delta y_{A0} x_A\\
+\\
+&= 1+\varepsilon_Ax_A \\
+\\
+\therefore \varepsilon_A &= \frac{N_T -N_{T0}}{N_{T0}x_A}\\
+\end{align*}
+$$
 
- 
-
+![[Pasted image 20241227122126.png]]
 
 
 

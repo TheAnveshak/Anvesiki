@@ -74,6 +74,21 @@ graph TD
 > $a$ is a factor of $b$
 > if $\exists\ k \in \mathbb{Z}\ |\ b=ak$
 
+$a,b \in \mathbb{Z}$, assume $a>0$
+$\exists q,r \in \mathbb{Z}$ s.t. $b=aq+r$ with $0\leq r<a$ 
+Let's just say,
+$aq_2 + r_2 = b = aq_1 + r1$ for $0 \leq r_1,r_2 <a$
+Assume : $r_1 \leq r_2$ ; WLG $r_1>r_2$
+$a (q_2-q_1) = r_1 -r_2 \implies a|r_1-r_2$ 
+$\because 0<r_1-r_2 \leq r_1 <a \implies r_1-r_2<a \implies a \nmid r_1-r_2$ which contradicts the assumption
+
+Lets\'s just consider the Whole number line,
+$\mathcal{S}:= {b-ax| b-ax\geq 0, x\in \mathbb{Z}}$
+by Well ordering Principle leaast element of $\mathcal{S}=:r$
+$e\in \mathcal{S} \implies \exists q \in \mathbb{Z}$ s.t. $b-qa =r \geq0$
+%% Prove S is non empty and r is least element %%
+
+# Division Algorithm
 
 
 
