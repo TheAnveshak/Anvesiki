@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d4e2a05fe9a8374a",
+        "id": "56300c17f0dbf272",
         "type": "tabs",
         "children": [
           {
-            "id": "44cb1edf2c0e304d",
+            "id": "06889b5ed64e7c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemical Engineering/Unit Operations/Distillation.md",
+                "file": "Chemical Engineering/Mathematical Modeling/Discrete Models(Something Something ....).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distillation"
+              "title": "Discrete Models(Something Something ....)"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "right": {
     "id": "468a1d1349a05b43",
@@ -139,20 +139,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/PFR.md"
+                "file": "Other Disciplines/Discrete Mathematics/Basics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of PFR"
+              "title": "Outline of Basics"
             }
           },
           {
-            "id": "a89618233697e275",
+            "id": "4d962aba7d89ee2e",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -177,55 +177,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44cb1edf2c0e304d",
+  "active": "06889b5ed64e7c0d",
   "lastOpenFiles": [
-    "Chemical Engineering/Unit Operations/Continuous Multistage Fractional Distillation of Binary Mixtures.md",
-    "Chemical Engineering/Discrete Mathematics/Basics.md",
-    "Untitled.md",
-    "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/CSTR.md",
-    "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/PFR.md",
-    "Chemical Engineering/Unit Operations/Distillation.md",
+    "2025-01-08.md",
+    "Chemical Engineering/Mathematical Modeling/Discrete Models(Something Something ....).md",
+    "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Phase Equilibrium in Mixtures.md",
+    "Chemical Engineering/Mathematical Modeling",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Mixtures.md",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Material and Energy Balance Calculations.md",
+    "Chemical Engineering/Unit Operations/Untitled.md",
+    "Chemical Engineering/images/Pasted image 20250106122254.png",
+    "Chemical Engineering/images/Pasted image 20250106121654.png",
+    "Chemical Engineering/images/Pasted image 20250106121647.png",
+    "Chemical Engineering/images/Pasted image 20250106114819.png",
+    "Other Disciplines/Discrete Mathematics/Basics.md",
+    "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/CSTR.md",
+    "Chemical Engineering/Extractive Distillation/Exrtactive Distillation.md",
+    "Chemical Engineering/Extractive Distillation/Ionic Liquids.md",
+    "Chemical Engineering/Instrumentation and Process Dynamics/Laplace Transform.md",
+    "Chemical Engineering/images/Pasted image 20241231120647.png",
+    "Chemical Engineering/images/Pasted image 20241231114545.png",
+    "Chemical Engineering/images/Pasted image 20241231112422.png",
+    "Chemical Engineering/images/Pasted image 20241231111525.png",
+    "Chemical Engineering/images/Pasted image 20241231111347.png",
+    "Chemical Engineering/Instrumentation and Process Dynamics/Process Dynamics.md",
+    "Chemical Engineering/Instrumentation and Process Dynamics/Untitled.md",
+    "Chemical Engineering/images/Pasted image 20241231102136.png",
+    "Chemical Engineering/images/Untitled.md",
+    "Chemical Engineering/Advanced Thermodynamics and Molecular simulation/Thermodynamics.md",
+    "Chemical Engineering/Advanced Thermodynamics and Molecular simulation",
+    "Other Disciplines",
     "Chemical Engineering/ThermoDynamics/Thermo....md",
-    "Chemical Engineering/images/Pasted image 20241227122126.png",
-    "Chemical Engineering/images/Pasted image 20241227105114.png",
+    "Chemical Engineering/Extractive Distillation/Untitled",
+    "Chemical Engineering/Extractive Distillation",
     "Chemical Engineering/Production Management/Yes Yes!!!!.md",
     "Chemical Engineering/Chemical Engineering.md",
     "Chemical Engineering/images",
-    "Untitled",
     "images",
-    "Chemical Engineering/Discrete Mathematics/Complexity.md",
-    "Chemical Engineering/images/Pasted image 20241223113205.png",
-    "Chemical Engineering/images/Pasted image 20241011143916.png",
-    "Chemical Engineering/images/Pasted image 20241226100210.png",
-    "Chemical Engineering/images/Pasted image 20241226090322.png",
+    "Other Disciplines/Discrete Mathematics/Complexity.md",
+    "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/PFR.md",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/EOS.md",
-    "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Phase Equilibrium in Mixtures.md",
-    "Chemical Engineering/images/Pasted image 20241223113342.png",
-    "Chemical Engineering/images/Pasted image 20241223113324.png",
     "Chemical Engineering/Unit Operations",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Basic Concepts and Definitions.md",
     "Untitled.canvas",
     "Chemical Engineering/ThermoDynamics/Templates/latex_left_r.md.md",
     "Chemical Engineering/Production Management",
-    "Chemical Engineering/Instrumentation and Process Dynamics/Process Dynamics.md",
-    "Chemical Engineering/Instrumentation and Process Dynamics/Untitled.md",
     "Chemical Engineering/Instrumentation and Process Dynamics",
-    "Chemical Engineering/AI & ML/Data Analytics/Programming.md",
-    "Chemical Engineering/Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering",
+    "Other Disciplines/AI & ML/Data Analytics/Programming.md",
     "Chemical Engineering/Chemical Reaction Engineering/Untitled.md",
-    "Chemical Engineering/Chemical Reaction Engineering",
     "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled 3.md",
-    "Untitled 4.md",
-    "Chemical Engineering/AI & ML/Untitled.md",
-    "Chemical Engineering/AI & ML/Data Analytics",
-    "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Will Name it Later....md",
-    "Chemical Engineering/Design and Analysis of Algorithms/Untitled",
-    "Chemical Engineering/images/Pasted image 20241107212002.png",
-    "Chemical Engineering/images/Pasted image 20241011144242.png",
     "Chemical Engineering/ThermoDynamics/Engineering Thermodynamics/Untitled.canvas"
   ]
 }
