@@ -14,8 +14,9 @@ Planning, Organising, Directing and Controlling of Production Activities. Produc
 #### Resource Utilization
 1. Equipment Utilization - To allocate machinery so as to maximise profits.
 2. Capital expenditure Utilization - 
-3. Manpower Utilization - To exploit maximum outcomes for minimum expenditure eg: salaries, wages, insurance, etc.
+3. Manpower Utilization - To exploit maximum outcomes for minimum expenditure eg: salaries, wages, insurance, etc
 4. 
+
 
 
 
