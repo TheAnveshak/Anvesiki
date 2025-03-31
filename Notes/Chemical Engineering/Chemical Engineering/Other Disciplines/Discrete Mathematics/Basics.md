@@ -41,7 +41,7 @@ let $m:=$ least element of $A$
 $S\cap A = \phi$
 if, $m\in \mathbb{}N$ and $m>1\implies m-1>0 \implies m-1\geq 1$ 
 $m-1 \in A$ & $m$ "least element" $\implies m\leq m-1$ \[**Contradiction**] 
-$m-1 \in \mathcal{S}; (ii) \implies m \in \mathcal{S} \implies m \notin A$
+$m-1 \in \mathcal{S}$; (ii) $\implies m \in \mathcal{S} \implies m \notin A$
 $\implies$ our initial Assumption is False.
 Hence, $\mathbb{N}\equiv \mathcal{S}$  
 
@@ -54,7 +54,7 @@ Form (i)&(ii) $\implies \mathcal{S}=\mathbb{N}$
 $A = \mathbb{N}\smallsetminus \mathbb{N} = \phi$
 Assume : $A$ doesn't have a least element.
 To prove: $\mathcal{S}=\mathbb{N}$
-%%Principle of Strong Induction %%
+%% Principle of Strong Induction %%
 Assume: $1,\cdots, n \in \mathcal{S} = A^c; n+1 \in A^c$
 if $n+1 \in A \implies 'n+1'$ is the least element.
 hence, $n+1 \in A^c \implies A^c= \mathbb{N}$

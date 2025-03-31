@@ -17,7 +17,7 @@ for, $k=10,\ \tau=1.5$
 When t=$1\times \tau$ $\frac{C(t)}{K_pM} = 1- e^{-1} = 0.632$  
 the system gives $63.2\%$ response for a 1st order System.
 
-**For a Thermometer** in a system which is being heated from 30C to 50C
+**For a Thermometer** in a system which is being heated from $30\degree C$ to $50\degree C$
 $mc_P T |_{t+\Delta t}-mc_PT|_t = hA(T_0-T)$
 $\frac{dT}{dt} = \frac{hA}{mc_p} (T_0-T)$
 Taking Laplace transform,
@@ -36,7 +36,7 @@ $$
 $\frac{dc(t)}{dt} = \frac{d()}{}$
 
 #### Ramp Function
-$R(t) = kt \implies R(s) = \frac{k}s^2\implies C(s) = \frac{kK_p}{s^2 (\tau s +1)}$
+$R(t) = kt \implies R(s) = \frac{k}{s^2}\implies C(s) = \frac{kK_p}{s^2 (\tau s +1)}$
 $C(s) = \frac{kK_p}{s^2(\tau s +1)} = \frac{kK_p}\tau \times \left[\frac{-\tau^2}{s}+\frac{\tau}{s^2}+\frac{\tau^2}{s+\frac{1}{\tau}}\right]$ 
 $C(t) = \frac{kK_p}\tau (-\tau^2 + \tau t + \tau^2 e^{-t/\tau})$ 
 $C(t) = kK_p(-\tau +t+\tau e^{-t/\tau})$  

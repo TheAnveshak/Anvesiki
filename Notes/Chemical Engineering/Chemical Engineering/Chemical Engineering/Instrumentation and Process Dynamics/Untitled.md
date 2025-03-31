@@ -40,6 +40,53 @@ Uses a metal
 
 
 
+### UV Vis Spectroscopy
+Measures UV light absorption, electron transition to excited state 
+This is governed by Beer Lambert's Law
+$A =\varepsilon C l$ 
+
+
+### FTIR - Fourier Transform Infrared Spectrometers
+Absorption of IR Radiation cause molecular vibrations, uses interferometer and fourier transform to generate a molecular fingerprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

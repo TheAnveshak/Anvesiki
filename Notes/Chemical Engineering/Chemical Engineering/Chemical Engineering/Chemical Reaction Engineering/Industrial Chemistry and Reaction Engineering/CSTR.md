@@ -108,8 +108,8 @@ $$
 \begin{align*}
 N_A \bigg|_{t+\Delta t} - N_A \bigg|_t &= r_A V dt\\
 \frac{dN_A}{dt} &= r_A V\\
-\frac{dN_A}{dt} &= r_A\ V_0\ (\ 01+\varepsilon\ x_A\ )\\
-\int^t_0 dt &= \int\frac{dN_A}{(1+\varepsilon x_A)r_A V_0} \\
+\frac{dN_A}{dt} &= r_A\ V_0\ (\ 1+\varepsilon\ x_A\ )\\
+\int^t_0 dt &= \int\frac{dN_A}{(\ 1+\varepsilon x_A\ )\ r_A V_0} \\
 \end{align*}
 $$
 for $A \xrightarrow{k} P\cdots$  (1st order reaction)
@@ -132,6 +132,7 @@ $$
 x_A = \frac{N_{A0} - N_A}{N_{A0}} &\implies dx_A = \frac1{N_{A0}}\times (- dN_A)\\
 t &= \int\frac{-N_A\ dx_A}{(1+\varepsilon\ x_A)\ r_A\ V_0} \\
 t &= \int^{x_A}_0\frac{-C_{A0}\ dx_A}{r_A\ (1+ \varepsilon\ x_A)}\\
+t &= \frac{C_{A0}}{r_A} \ln \left(1+\varepsilon x_A\right)
 \end{align*}
 $$
 
@@ -281,6 +282,36 @@ $C_{A1}^2 -C_{A0} +k\tau = 0$
 $C_{A1} = 99.995\ \ \text{OR}\ \ C_{A1} = 0.0005$
 For PFR,
 $C_{A1} = 99.997\ \ \text{OR}\ \ C_{A1} = 0.002$ 
+
+
+#### Equal Size PFR
+- 2PFR in series are same as 1 PFR of equivalent length
+
+#### Equal size CSTR
+N CSTR in series
+![[Screenshot_20250328_113337.png]]
+
+$$
+\frac{C_{AN}}{C_{A0}} = \frac{1}{(1+k\tau_1)(1+k\tau_2)\cdots(1+k\tau_N)} = \frac{1}{(1+k\tau)^N}
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

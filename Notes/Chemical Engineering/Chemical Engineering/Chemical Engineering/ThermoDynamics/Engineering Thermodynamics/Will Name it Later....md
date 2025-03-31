@@ -52,8 +52,9 @@ $$
 dH = c_P dT + \left[T \left(\frac{\partial S}{\partial P}\right)_T + V\right] dP
 $$
 From the previous relation we get,
+
 $$
-\boxed{dH = c_P dT + \left[V - T\left(\frac{\partial V}{\partial T}\right)_P\right]dP}
+\boxed{dH = c_P dT + \int\left[V - T\left(\frac{\partial V}{\partial T}\right)_P\right]dP}
 $$
 For Ideal Gas $PV = RT \implies \left(\frac{\partial V}{\partial T}\right)_P = \frac{R}{P}$.
 Furthermore, $T\left(\frac{\partial V}{\partial T}\right)_P = T \frac{R}{P} = V$
