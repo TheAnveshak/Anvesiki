@@ -8,7 +8,7 @@ For a Jacketed Continuous Flow Stirred Tank
 - 
 
 
-![](Images/Screenshot_20250225_120708.png)
+![[images/Screenshot_20250225_120708.png]]
 
 Enthalpy of Vessel at time t = $V\rho C_p (T-T_{ref}) = V\rho C_pT|_t$
 Enthalpy of Vessel at time $t+\Delta t$ = $V\rho C_p T|_{t+\Delta t}$
@@ -55,13 +55,13 @@ $\bar T(s) = \frac{1}{0.2s+1}\bar T_i(s)+\frac{0.05}{0.2s+1}\bar m(s)$
 $\bar T(s) = \frac{1}{0.2s+1}\frac{3}{s}+\frac{0.05}{0.2s+1}\frac{60}{s}$
 $\bar T(s) = \frac{15}{s(0.2s+1)} = \frac{30}{s(s+5)} = \frac{6}{s}-\frac{6}{s+5}$
 $\bar T (t) = 6(1-e^{-5t})$
-![](Images/Screenshot_20250304_112207.png)
+![[images/Screenshot_20250304_112207.png]]
 
 New steady State 
 $\bar T_i(S) = 2/s$ $\bar m(s) = -33/s$
 $\bar T(s) = \frac{1.75}{s(s+5)}$
 $\bar T(t) = 0.35(1-e^{-5t})$
-![](Images/Screenshot_20250304_113341.png)
+![[images/Screenshot_20250304_113341.png]]
 
 $m_s\times 4.18 = 10\times 100\times 4.18 \times(66.35-35)$
 $m_s = 500 kg/hr$
@@ -92,7 +92,7 @@ $$
 $$
 
 
-![](Images/Screenshot_20250311_105613.png)
+![[images/Screenshot_20250311_105613.png]]
 
 $$
 \begin{align*}
@@ -131,7 +131,7 @@ $\bar C(s) = \frac{2}{s}\frac{\frac{1}{0.2s+1}}{1+(1+\frac{1}{s})\times100\times
 $\bar C(s) = 2\frac{5}{s(s+5)+(s+1)25} = \frac{10}{s^2+30s+25}$ 
 $\bar C(s) = \frac{10}{\sqrt{200}}\sinh(\sqrt{200}t)e^{-15t}$
 
-![](Images/Screenshot_20250311_120406.png)
+![[images/Screenshot_20250311_120406.png]]
 
 $$
 \bar C(s)=\frac{G_pG_VG_C}{1+G_pG_VG_CH}\bar R(s) +\frac{G_L}{1+G_pG_VG_CH}\bar d(s) = \frac{\bar Q(s)}{\bar P(s)}
@@ -146,7 +146,7 @@ $\frac{1}{s-a}$ for -ve a in $a+ib$ $\to e^{-at}e^{ibt} \implies$ stable
 - Rate = $\frac{1}{\tau_I}$
 - first Order System Capacity = $G_{p} = \frac{K_p}{\tau s+1}$
 - Second Order System = $G_p = \frac{K_p}{\tau^2 s^2+2\xi\tau s+1} = f(K_p,\tau,\xi)$
-![](Images/Screenshot_20250401_112327.png)
+![[images/Screenshot_20250401_112327.png]]
 
 $y(t) = x(t-t_d)$
 $y(s) = e^{-\tau_d s}x(s)$

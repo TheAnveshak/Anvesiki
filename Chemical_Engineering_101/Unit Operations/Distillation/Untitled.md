@@ -45,14 +45,14 @@ $L = 1.014\ \ kg/hr$  $\rho_{L_{avg}feed} = 866.69\ kg /m^3$  $\rho_{L_{avg}top}
 
 
 
-![](Images/WhatsApp Image 2025-02-04 at 2.37.52 PM.jpeg)
+![[images/WhatsApp Image 2025-02-04 at 2.37.52 PM.jpeg]]
 
 
 
 
 
 
-![](Images/WhatsApp Image 2025-02-04 at 2.37.58 PM.jpeg)
+![[images/WhatsApp Image 2025-02-04 at 2.37.58 PM.jpeg]]
 
 
 
@@ -63,7 +63,7 @@ $L = 1.014\ \ kg/hr$  $\rho_{L_{avg}feed} = 866.69\ kg /m^3$  $\rho_{L_{avg}top}
 
 
 
-![](Images/WhatsApp Image 2025-02-04 at 2.38.03 PM.jpeg)
+![[images/WhatsApp Image 2025-02-04 at 2.38.03 PM.jpeg]]
 
 
 

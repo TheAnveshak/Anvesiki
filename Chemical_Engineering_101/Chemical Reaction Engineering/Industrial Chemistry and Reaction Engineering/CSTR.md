@@ -160,7 +160,7 @@ For, $A + zB \to z_1P$
 $$
 \frac{C_P}{C_{A0}} = \frac{M + z_1 x_A}{1 + \varepsilon _A x_A}
 $$
-![](Images/Pasted image 20241226090322.png)
+![[images/Pasted image 20241226090322.png]]
 For, $x_A = 0$ $V = 100 + 200 + 100 = 400$
 at, $x_A = 1$  $V = -100 + 600 + 100 = 600$
 $\therefore\   \varepsilon_A = \frac{600-400}{400} =0.5$
@@ -168,13 +168,13 @@ $\varepsilon_B =\frac{\varepsilon_A C_{B0}}{zC_{A0}} = \frac{1}{3}$
 $\frac{C_A}{C_{A0}} = \frac{1-x_A}{1+\varepsilon _A x_A} \implies \frac{40}{100} = \frac{1-x_A}{1+\frac{x_A}{2}} \implies x_A = 0.5$
 $\therefore x_B =\frac{zC_{A0}x_A}{C_{B0}} =  0.75\ \ \implies C_B = 40$   
 
-![](Images/Pasted image 20241226100210.png)
+![[images/Pasted image 20241226100210.png]]
  $\because$ constant pressure constant volume
 1. $x_B = 0.4,\ C_A=20,\ C_B=120$ 
 2. infeasible ig
 3. $\varepsilon_A = \frac{-2}{3}$
 4. infeasible solution
-![](Images/Pasted image 20241227105114.png)
+![[images/Pasted image 20241227105114.png]]
 4.5. $\varepsilon_A = 0$ ; $\frac{C_A}{C_{A0}} = \frac{1-x_A}{1+\varepsilon_Ax_A} \frac{T_0P}{TP_0}$ $\implies \frac{20}{100} = \frac{1-x_A}{1}\frac{400 \times 3}{300 \times 4}\ \implies x_A= 0.8$
 	$\implies x_B = \frac{z}{M}x_A = 0.4$ 
 4.6. $\varepsilon_A = \frac{2}{3}$ ; $\frac{C_A}{C_{A0}} = \frac{1-x_A}{1+\varepsilon_Ax_A} \frac{T_0P}{TP_0}$ 
@@ -212,21 +212,21 @@ $$
 \end{align*}
 $$
 
-![](Images/Pasted image 20241227122126.png)
+![[images/Pasted image 20241227122126.png]]
 
 
 
 
-![](Images/Pasted image 20241231084917.png)
+![[images/Pasted image 20241231084917.png]]
  $Salary \to lost + saved \implies 180 \to 45 + 135$
 $r_A \propto cash\ in\ hand = C_A \implies r_A = -kC_A$    
 $\frac{C_2}{C_1} = \frac{C_2-135}{C_1-135}\frac{t_1}{t_2}$
 $\therefore the\ new\ salary = \$216$ 
 
-![](Images/Pasted image 20241231092626.png)
+![[images/Pasted image 20241231092626.png]]
 $\frac{dC_A}{dt} = -kC_A^n$
 
-![](Images/Pasted image 20241231093423.png)
+![[images/Pasted image 20241231093423.png]]
 10mins total
 $-r_A = kC_A^2 = kC_{A0}^2 (1-x_A)^2$
 $C_A^{1-n} - C_{A0}^{1-n} = (n-1) kt$
@@ -236,7 +236,7 @@ for, $x = 0.75; \frac{1}{C_{A0}0.25} - \frac{1}{C_{A0}}= kt_{75}$
 $\therefore t_{75} = 15 \min$   
 for, $t = 35\min; \frac{1}{C_{A0} x} - \frac{1}{C_{A0}}= k35 \implies x=0.875$ 
 
-![](Images/Pasted image 20241231102136.png)
+![[images/Pasted image 20241231102136.png]]
 $\therefore [C_{A0}(1-x_A)]^{1-n} - C_{A0}^{n-1} = (n-1)kt$
 $\therefore [C_{A0}(1-x_A)]^{0.5} - C_{A0}^{0.5} = -0.5kt$
 $\sim 100\%$ conversion 
@@ -289,7 +289,7 @@ $C_{A1} = 99.997\ \ \text{OR}\ \ C_{A1} = 0.002$
 
 #### Equal size CSTR
 N CSTR in series
-![](Images/Screenshot_20250328_113337.png)
+![[images/Screenshot_20250328_113337.png]]
 
 $$
 \frac{C_{AN}}{C_{A0}} = \frac{1}{(1+k\tau_1)(1+k\tau_2)\cdots(1+k\tau_N)} = \frac{1}{(1+k\tau)^N}

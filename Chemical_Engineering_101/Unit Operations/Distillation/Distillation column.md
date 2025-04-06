@@ -22,7 +22,7 @@ $Fz_f = Lx_L + Vy_V$
 | 75           | 1650.288      | 648.5113      | 0.111291 | 0.241661 |
 | 80           | 1890.174      | 758.5563      | 0.001276 | 0.003173 |
 
-![](Images/Pasted image 20241223113342.png)
+![[images/Pasted image 20241223113342.png]]
 
 ## Relative Volatility
 Relative Volatility of a component $A$ in a mixture indicates the **Ease** of its **SEPARATION** from another component $B$.
@@ -33,7 +33,7 @@ $$
 y = \frac{\alpha x}{1+(\alpha-1)x}
 $$
 
-![](Images/Pasted image 20241223113324.png)
+![[images/Pasted image 20241223113324.png]]
 
 ## Equilibrium in Multicomponent Systems
 $$
@@ -60,7 +60,7 @@ $100 \times 2 + Q = 60 \times 30 +40 \times 5$
 $\therefore Q = 1800kJ$
 
 ## Steam Distillation
-![](Images/Pasted image 20250106114819.png)
+![[images/Pasted image 20250106114819.png]]
 
 For an Ideal Binary Mixture: $y_A = P_A/P_T = x_AP_A^V/P_T$
 - A and B are immiscible their mixture exerts a vapour Pressure = sum of vapour pressure of individual components
@@ -93,7 +93,7 @@ $P =P_A^V +P^V_B \quad\ \quad\ \implies\ \quad\ P_B^V =P-P^V_A$
 | 80        | 143.7032          | 355.7729          | 404.2271            |        |
 | 90        | 206.6091          | 527.0992          | 232.9008            |        |
 | 100       | 290.4858          | 762.7314          | -2.73135            |        |
-![](Images/Pasted image 20250106122254.png)
+![[images/Pasted image 20250106122254.png]]
 The intersection is at $91\degree C$   
 The density of CHLOROBENZENE $\rho = 1107 kg/m^3\ \ \ \therefore m=1.107kg \implies n_{CB} = 9.84$ 
 $n_{water} = 9.84\times \frac{547.5}{214} \approx 25.17 gmol = 453.06g$

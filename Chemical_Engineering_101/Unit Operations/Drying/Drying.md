@@ -12,10 +12,10 @@
 	- Liquid/molecular Diffusion
 	- Vapour Diffusion
 
-![](Images/Pasted image 20250217111636.png)                                    https://www.google.com/url?sa=i&url=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-981-16-7289-7_5&psig=AOvVaw3XMDH4F_D8ML8amTNNfONQ&ust=1739857545492000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNCjxsqAyosDFQAAAAAdAAAAABAJ
+![[images/Pasted image 20250217111636.png]]                                    https://www.google.com/url?sa=i&url=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-981-16-7289-7_5&psig=AOvVaw3XMDH4F_D8ML8amTNNfONQ&ust=1739857545492000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNCjxsqAyosDFQAAAAAdAAAAABAJ
 
 ## Types of Moisture
-![](Images/Pasted image 20250224105427.png)https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-16-7289-7_5/MediaObjects/510562_1_En_5_Fig12_HTML.png
+![[images/Pasted image 20250224105427.png]]https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-16-7289-7_5/MediaObjects/510562_1_En_5_Fig12_HTML.png
 - Equilibrium Moisture Content - a function of the relative humidity of the gas, the temperature of the gas and the nature of the solid and the liquid
 - Unbound Moisture - Moisture in excess of bound moisture, vapor pressure same as that of free water.
 - Bound Moisture - it is moisture adsorbed on the surface of the solids or absorbed within the solids, exerts a vapor pressure less than that of free water.
@@ -26,7 +26,7 @@ $\%\text{humidity} = \frac{\text{Humidity of Air}}{\text{Humidity of saturated A
 $\mathcal{R} = \frac{\text{Partial Pressure of Water in Air}}{\text{Vapor pressure of Water}}$
 Humidity Volume = Volume of Air + Volume of Water Vapor = $\frac{22.4}{29}\frac{T}{273}+\frac{22.4}{18}\frac{T}{273}\ \ \ \frac{m^3}{kg}$
 
-![](Images/Pasted image 20250224111456.png)https://pub.mdpi-res.com/materials/materials-17-03334/article_deploy/html/images/materials-17-03334-g001-550.jpg?1720174873
+![[Images/Pasted image 20250224111456.png]] https://pub.mdpi-res.com/materials/materials-17-03334/article_deploy/html/images/materials-17-03334-g001-550.jpg?1720174873
 The difference is due to the moisture that is retained by the solid
 
 ## The Drying Rate Curve
@@ -36,11 +36,11 @@ The difference is due to the moisture that is retained by the solid
 - Change of Humidity content of Gas.
 - $N = -\frac{W_s}{a}\frac{dX}{dt} \approx -\frac{W_s}{a}\frac{\Delta X}{\Delta t}$
 
-![](Images/Pasted image 20250224112452.png)https://www.researchgate.net/publication/311651620/figure/fig4/AS:668529099550720@1536401166037/Drying-Curve-Showing-Moisture-Content-as-a-Function-of-Time-of-a-crop-Source-34-35.png
+![[images/Pasted image 20250224112452.png]]https://www.researchgate.net/publication/311651620/figure/fig4/AS:668529099550720@1536401166037/Drying-Curve-Showing-Moisture-Content-as-a-Function-of-Time-of-a-crop-Source-34-35.png
 - BC - Constant Rate Drying
 - BC and CD - Non linear drop in drying rate
 - Beyond E - Equilibrium Moisture content Reached
-![](Images/Pasted image 20250224112937.png)https://www.researchgate.net/publication/324161313/figure/fig1/AS:685422900428802@1540428962513/Drying-rate-curve-as-a-function-of-moisture-content-A-B-initial-adjustment-period-B-C.png
+![[images/Pasted image 20250224112937.png]]https://www.researchgate.net/publication/324161313/figure/fig1/AS:685422900428802@1540428962513/Drying-rate-curve-as-a-function-of-moisture-content-A-B-initial-adjustment-period-B-C.png
 
 $t = -\frac{W_s}{a}\int^{X_f}_{X_i}\frac{dX}{N}=\frac{W_s}{a}\int^{X_i}_{X_c}\frac{dX}{N}+\frac{W_s}{a}\int^{X_c}_{X_f}\frac{dX}{N}$
 $t = \frac{W_s(X_i-X_c)}{aN_c}+\frac{W_s}{a}\int^{X_c}_{X_f}\frac{dX}{pX+q}$

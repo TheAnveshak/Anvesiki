@@ -357,7 +357,7 @@ Keeping the Pressure Constant at 1bar,
 | 357    | 0.8 | 0.92| 2.875    |
 | 353    | 1   | 1   | -        |
 
-![](Images/Pasted image 20241107212002.png)
+![[images/Pasted image 20241107212002.png]]
 
 Keeping the temperature constant
 (Please do share if anyone has calculated for this part (╯︵╰,) )

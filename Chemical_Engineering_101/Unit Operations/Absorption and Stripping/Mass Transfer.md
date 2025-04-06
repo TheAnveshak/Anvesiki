@@ -1,5 +1,5 @@
 
-![](Images/Screenshot_20250326_135354.png)
+![[images/Screenshot_20250326_135354.png]]
 
 $L_1y_1+L_2x_2 = G_2y_2+L_1x_1$
 $Y = \frac{\text{moles of solute}}{\text{moles of non solute}} = \frac{y_{NH_3}}{y_{Air}} = \frac{y}{1-y}$
@@ -12,7 +12,7 @@ $G_sY_1+L_sX_2 = G_sY_2+L_sX_1$
 $\frac{L_s}{G_s}=\frac{Y_1-Y_2}{X_1-X_2}$
 $x = \frac{X}{1+X}$  $y = \frac{Y}{1+Y}$
 $G_s = G_1(1-y_1)$
-![](Images/Screenshot_20250326_141254.png)
+![[images/Screenshot_20250326_141254.png]]
 
 - Obtain the equilibirium data and plot the X-Y curve
 - From material Balance locate $X_1,Y_1,X_2,Y_2$ and join them to obtain operating line 

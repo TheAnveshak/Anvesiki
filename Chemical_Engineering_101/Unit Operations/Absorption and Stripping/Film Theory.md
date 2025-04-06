@@ -1,6 +1,6 @@
 ## For Absorption
 
-![](Images/Screenshot_20250326_110445.png)
+![[images/Screenshot_20250326_110445.png]]
 
 For Individual Mass Transfer Coefficient
 $N_A = k_y(y_{Ab}-y_{Ai}) = k_x(x_{Ai} - x_{Ab})=-k_x(x_{Ab} - x_{Ai})$

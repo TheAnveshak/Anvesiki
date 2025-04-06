@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit Operations/Drying/Drying.md",
+                "file": "Instrumentation and Process Dynamics/Second Order System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drying"
+              "title": "Second Order System"
             }
           }
         ]
@@ -147,6 +147,20 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "4b559af24f7007c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -157,22 +171,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "a101386254d1067c",
   "lastOpenFiles": [
+    "Instrumentation and Process Dynamics/Untitled.md",
+    "Instrumentation and Process Dynamics/Second Order System.md",
+    "Instrumentation and Process Dynamics/Systems in Series.md",
+    "Instrumentation and Process Dynamics/Control System.md",
+    "Instrumentation and Process Dynamics/Combined Systems.md",
+    "Instrumentation and Process Dynamics/Laplace Transform.md",
+    "Instrumentation and Process Dynamics/Process Dynamics.md",
+    "Unit Operations/Drying/Drying.md",
+    "sedMO9S7s",
+    "Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/Untitled.md",
+    "Chemical Reaction Engineering/Industrial Chemistry and Reaction Engineering/Kinetics of Homogenous Reaction.md",
     "ThermoDynamics/Engineering Thermodynamics/EOS.md",
     "ThermoDynamics/Engineering Thermodynamics/Mixtures.md",
     "ThermoDynamics/Engineering Thermodynamics/Will Name it Later....md",
     "ThermoDynamics/Engineering Thermodynamics/Material and Energy Balance Calculations.md",
     "ThermoDynamics/Engineering Thermodynamics/Basic Concepts and Definitions.md",
-    "Unit Operations/Drying/Drying.md",
     "images/Pasted image 20241228124831.png",
     "images/Pasted image 20241011144242.png",
     "ThermoDynamics/Engineering Thermodynamics/Entropy.md"

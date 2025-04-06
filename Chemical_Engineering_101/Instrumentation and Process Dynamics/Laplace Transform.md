@@ -12,7 +12,7 @@ Y(s) &= MK_p {(1-e^{\frac{-t}\tau})}\\
 
 \end{align*}
 $$
-![](Images/Pasted image 20241231112422.png)
+![[images/Pasted image 20241231112422.png]]
 for, $k=10,\ \tau=1.5$ 
 When t=$1\times \tau$ $\frac{C(t)}{K_pM} = 1- e^{-1} = 0.632$  
 the system gives $63.2\%$ response for a 1st order System.
@@ -24,7 +24,7 @@ Taking Laplace transform,
 $s\bar{T}(s) - \bar T(0) = k\bar T_0(s) - k\bar T(s)$   
 $\frac{\bar T(S)}{\bar T_0(S)} = \frac{k}{k+s} = \frac{1}{\frac{1}{k}s +1}$ 
 $\therefore \tau = \frac{1}{k} = \frac{mc_p}{hA}$ (m,$c_p$,A of the bulb or the material in the bulb are constant, hence we can change the time constant by changing )
-![](Images/Pasted image 20241231114545.png)
+![[images/Pasted image 20241231114545.png]]
 #### Impulse Response of 1st Order Reaction
 $R(s) = \delta(s) = 1$
 $C(s) = \frac{K}{\tau s+1}$
@@ -40,7 +40,7 @@ $R(t) = kt \implies R(s) = \frac{k}{s^2}\implies C(s) = \frac{kK_p}{s^2 (\tau s 
 $C(s) = \frac{kK_p}{s^2(\tau s +1)} = \frac{kK_p}\tau \times \left[\frac{-\tau^2}{s}+\frac{\tau}{s^2}+\frac{\tau^2}{s+\frac{1}{\tau}}\right]$ 
 $C(t) = \frac{kK_p}\tau (-\tau^2 + \tau t + \tau^2 e^{-t/\tau})$ 
 $C(t) = kK_p(-\tau +t+\tau e^{-t/\tau})$  
-![](Images/Pasted image 20241231120647.png)
+![[images/Pasted image 20241231120647.png]]
 #### First Order - Sinosoidal 
 $x(t) = A\sin (\omega t) \implies x(t) = A \frac{\omega}{s^2+\omega^2}$
 $Y(t) = \frac{K_p}{\tau s +1} x(s) \implies Y(s) =$

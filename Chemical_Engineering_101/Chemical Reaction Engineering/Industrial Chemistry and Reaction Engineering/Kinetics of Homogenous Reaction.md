@@ -20,7 +20,7 @@ $B_2*+A \to B+AB$
 
 $r_R = -r_A = \frac{k_1k_3E_0C_A}{(k_2+k_3)+k_1C_A} = \frac{\frac{k_1k_3}{k_2+k_3}C_AE_0}{1+\frac{k_1}{k_2+k_3}C_A} = \frac{k_3C_AC_{E0}}{M+C_A} = \frac{k_3C_AC_{E0}}{\frac{k_2+k_3}{k_1}+C_A}$
 
-![](Images/Screenshot_20250307_105633.png)
+![[images/Screenshot_20250307_105633.png]]
 
 $2NO_2+\frac{1}{2}O_2 \to N_2O_5$
 $-r_A = \frac{1760C_AC_{E0}}{6+C_A}$

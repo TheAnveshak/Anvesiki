@@ -65,7 +65,7 @@ decision variables, the mathematical formulation of the MINLP
 problem for the optimal synthesis of the configuration and
 operation of the extractive distillation of benzene/acetonitrile
 can be stated as
-![](Images/Pasted image 20241228124831.png)
+![[images/Pasted image 20241228124831.png]]
 It is also worth mentioning that the optimization framework is
 implemented in Matlab and the required communications
 between the optimizer (i.e., Matlab) and the simulator (i.e.,
