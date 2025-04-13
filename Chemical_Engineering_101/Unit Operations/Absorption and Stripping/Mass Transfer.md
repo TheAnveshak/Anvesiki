@@ -1,7 +1,6 @@
-
 ![[images/Screenshot_20250326_135354.png]]
 
-$L_1y_1+L_2x_2 = G_2y_2+L_1x_1$
+$L_1y_1+L_2x_2 = G_2y_2+G_1x_1$
 $Y = \frac{\text{moles of solute}}{\text{moles of non solute}} = \frac{y_{NH_3}}{y_{Air}} = \frac{y}{1-y}$
 $X = \frac{x}{1-x}$
 $G_S =$ Flow rate of solute free gas
@@ -51,9 +50,23 @@ S = Stripping Factor = $\frac{1}{A} = \frac{\alpha G_s}{L_s}$
 Equilibrium Equation = $Y =\alpha X$
 
 
+$-d(G_s'Y) = N_A\bar a dh$
+$-YdG'_s - G'_sdY = K_Y(Y-Y')\bar a dh$
+$\int^h_0 dh = \int^{Y_1}_{Y_2}\frac{G'_s}{K_Y \bar a}\frac{dY}{Y-Y^*}$
+$h = \frac{G'_s}{K_Y \bar a}\int^{Y_1}_{Y_2}\frac{dY}{Y-Y^*} = HTU \times NTU$
+For Dilute Solutions:
+$h = \frac{G'_s}{K_Y \bar a}\int^{Y_1}_{Y_2}\frac{dY}{(1-Y)(Y-Y^*)}$
 
 
+> [!question] Problem
+> Solute A is to be absorbed from a binary mixture containing 7.5% of A with solvent B in a packed Tower. BAsed on flooding calculation, a tower diameter of 1.2m is selected. Total gas flow rateis 60kmol/h. The exit gas must not contain more than 0.2% of solute A. Free liquid B enters from top of the tower at 40 kmol/h. The gas phase and liqid phase mass transfer coefficients based on mole ratio unit are $k_X =2.05kmol/m^2h(\Delta X)$ and $k_Y=1.75kmol/m^2h(\Delta Y)$. The equilibrium line is Equation $Y = 0.63$. Specific interfacial area of gas liquid contact $\bar a$ is 71 $m^2/m^3$.
+> a. Calculate packing height required for desired separation.
 
+$G_s = 55.5 kmol/h$
+$G_s' = \frac{4\times 55.5}{\pi 1.2^2} = 49.07 kmol/h.m^2$
+$\frac{1}{K_Y} = \frac{1}{k_Y}+\frac{m}{k_X}$
+$K_Y = 1.137kmol/m^2h$
+$HTU = \frac{49.07}{1.137\times 71}=0.6m$
 
 
 
@@ -136,6 +149,4 @@ Equilibrium Equation = $Y =\alpha X$
 
 
 
-
-
-
+[^1]: hi

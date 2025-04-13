@@ -16,17 +16,16 @@ Two tanks in series, where the second tank does **not** influence the dynamics o
 					         ┌────┴────┐
 					         │ Valve   │
 					         └────┬────┘
-					              │
-					              +-----------------+
+					               │
+					               +----------------+
 					                                ▼
-										     +------------------+          
+										     +------------------+     
 										     |                  |⎫
 										     |                  |⎬ h₂
 										     |     Tank 2       |⎭
-										     |                  |
-										     +------------------+ ------+
-															              │
-															              ▼
+										     |                  |																			              +------------------+ ------+
+													                       │
+																		   ▼
 															            Outlet
 
 
@@ -108,25 +107,22 @@ $$
 
 
 1. **Tank 1**:
-   $$
+$$
    A_1 \frac{dh_1}{dt} = F_i(t) - K_1 \sqrt{h_1 - h_2}
-   $$
+$$
 
 2. **Tank 2**:
-   $$
+$$
    A_2 \frac{dh_2}{dt} = K_1 \sqrt{h_1 - h_2} - K_2 \sqrt{h_2}
-   $$
+$$
 
 Use deviation variables and apply Taylor's expansion:
 - $H_1(s), H_2(s)$ = Laplace transforms of $h_1'(t), h_2'(t)$
 - $F(s)$ = Laplace transform of $f_i'(t)$
 
-1. Tank 1:
    $$
    \left( A_1 s + \frac{1}{R_1} \right) \bar H_1(s) = \bar F(s) + \frac{1}{R_1} \bar H_2(s)
    $$
-
-2. Tank 2:
    $$
    \left\{ A_2 R_2 s + \left(1 + \frac{R_2}{R_1} \right) \right\} \bar H_2(s) = \frac{R_2}{R_1} \bar H_1(s)
    $$

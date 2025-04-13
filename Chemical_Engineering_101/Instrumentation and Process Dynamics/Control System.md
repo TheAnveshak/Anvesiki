@@ -73,7 +73,7 @@ $$
 \begin{align*}
 C(s) &= G_p(s)+G_Ld(s)\\
 &=G_pG_Vp(s)+G_Ld(s)\\
-&=G_pF_VG_C(R-B)+G_Ld(s)\\
+&=G_pG_VG_C(R-B)+G_Ld(s)\\
 &=G_pF_VG_C(R-HC(s))+G_Ld(s)\\
 C(s)&=\frac{G_pG_VG_CR+G_Ld(s)}{1+G_pG_VG_CH}
 \end{align*}
@@ -130,9 +130,9 @@ $$
 $\bar C(s) = \frac{2}{s}\frac{\frac{1}{0.2s+1}}{1+(1+\frac{1}{s})\times100\times\frac{0.05}{0.2s+1}}$
 $\bar C(s) = 2\frac{5}{s(s+5)+(s+1)25} = \frac{10}{s^2+30s+25}$ 
 $\bar C(s) = \frac{10}{\sqrt{200}}\sinh(\sqrt{200}t)e^{-15t}$
-
+*
 ![[images/Screenshot_20250311_120406.png]]
-
+*
 $$
 \bar C(s)=\frac{G_pG_VG_C}{1+G_pG_VG_CH}\bar R(s) +\frac{G_L}{1+G_pG_VG_CH}\bar d(s) = \frac{\bar Q(s)}{\bar P(s)}
 $$
@@ -146,6 +146,7 @@ $\frac{1}{s-a}$ for -ve a in $a+ib$ $\to e^{-at}e^{ibt} \implies$ stable
 - Rate = $\frac{1}{\tau_I}$
 - first Order System Capacity = $G_{p} = \frac{K_p}{\tau s+1}$
 - Second Order System = $G_p = \frac{K_p}{\tau^2 s^2+2\xi\tau s+1} = f(K_p,\tau,\xi)$
+
 ![[images/Screenshot_20250401_112327.png]]
 
 $y(t) = x(t-t_d)$
@@ -155,7 +156,7 @@ $\frac{y(s)}{x(s)} = e^{-\tau_d s}$
 $$
 \frac{C(s)}{R(s)} = \frac{G_cG_vG_pe^{-\tau_ds}}{1+G_cG_vG_pe^{-\tau_ds}H}
 $$
-$e^{-tau_ds} \approx \frac{1-\frac{\tau_s}{2}s}{1+\frac{\tau_s}{2}s}$
+$e^{-\tau_ds} \approx \frac{1-\frac{\tau_s}{2}s}{1+\frac{\tau_s}{2}s}$
 
 
 
