@@ -38,7 +38,7 @@ For Adsorption
 $$
 N = \frac{\log\left[\left(\frac{Y_1-\alpha X_2}{Y_2-\alpha X_2}\right)\times \left(1-\frac{1}{A}\right)+\frac{1}A\right]}{\log A}
 $$
-A =  Adsorption Factor = $\frac{L_s}{\alpha G_s}$
+A =  Absorption Factor = $\frac{L_s}{\alpha G_s}$
 Equilibrium Relation  = $Y = \alpha X$
 
 
@@ -61,6 +61,7 @@ $h = \frac{G'_s}{K_Y \bar a}\int^{Y_1}_{Y_2}\frac{dY}{(1-Y)(Y-Y^*)}$
 > [!question] Problem
 > Solute A is to be absorbed from a binary mixture containing 7.5% of A with solvent B in a packed Tower. BAsed on flooding calculation, a tower diameter of 1.2m is selected. Total gas flow rateis 60kmol/h. The exit gas must not contain more than 0.2% of solute A. Free liquid B enters from top of the tower at 40 kmol/h. The gas phase and liqid phase mass transfer coefficients based on mole ratio unit are $k_X =2.05kmol/m^2h(\Delta X)$ and $k_Y=1.75kmol/m^2h(\Delta Y)$. The equilibrium line is Equation $Y = 0.63$. Specific interfacial area of gas liquid contact $\bar a$ is 71 $m^2/m^3$.
 > a. Calculate packing height required for desired separation.
+
 
 $G_s = 55.5 kmol/h$
 $G_s' = \frac{4\times 55.5}{\pi 1.2^2} = 49.07 kmol/h.m^2$

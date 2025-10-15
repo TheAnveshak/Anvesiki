@@ -68,7 +68,7 @@ $t = t_1+t_2 = 5.23\ hr$
 For quadratic Relation between $N$ and $x$
 $N = \beta x^2$
 $\therefore t_f = \frac{W_s}{a}\int^{x_c}_{x_f}\frac{dx}{N} = \frac{W_s}{a\beta}\left[\frac{1}{x_f}-\frac{1}{x_c}\right] = \frac{W_s x_c^2}{aN_c}\left[\frac{1}{x_f}-\frac{1}{x_c}\right]$
- $t = t_c+t_f = \frac{85.7}{0.05\times 85.7\times1.5}(0.4 - 0.25) + \frac{85.7 0.25^2}{0.05\times85.7\times 1.5}\left[\frac{1}{0.1}-\frac{1}{0.25}\right]$
+ $t = t_c+t_f = \frac{85.7}{0.05\times 85.7\times1.5}(0.4 - 0.25) + \frac{85.7 \times 0.25^2}{0.05\times85.7\times 1.5}\left[\frac{1}{0.1}-\frac{1}{0.25}\right]$
 $t = 7\ hr$
 
 $t = t_c + \sum_i t_{f_{i, linear}} +\sum_j t_{f_{j,power}}$

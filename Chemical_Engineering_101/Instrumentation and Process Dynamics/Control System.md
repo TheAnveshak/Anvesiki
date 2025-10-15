@@ -163,27 +163,27 @@ $e^{-\tau_ds} \approx \frac{1-\frac{\tau_s}{2}s}{1+\frac{\tau_s}{2}s}$
 #### Zeigler Nichols Method
 1. $\tau_i \to \infty, \tau_d =0$ so that $G_C=K$ and Increase the $K_C$ so as to get sustained oscillation; this $K_U$ is the **Ultimate Gain of Controller** and the corresponding time period of oscillation is the ultimate period .
 
-| Z_N Setting | P      | PI      | PID    |
-| ----------- | ------ | ------- | ------ |
-| K_c         | 0.5K_U | 0.45K_U | 0.6K_U |
-| \tau_I      | -      | P_U/1.2 | P_U/2  |
-| \tau_D      | -      | -       | P_U/8  |
+| $Z_N$ Setting | $P$      | $PI$      | $PID$    |
+| ------------- | -------- | --------- | -------- |
+| $K_c$         | $0.5K_U$ | $0.45K_U$ | $0.6K_U$ |
+| $\tau_I$      | $-$      | $P_U/1.2$ | $P_U/2$  |
+| $\tau_D$      | $-$      | $-$       | $P_U/8$  |
 
 2. With no overshoot
 
-| Z_N Setting | no overshoot | Slight Overshoot |
-| ----------- | ------------ | ---------------- |
-| K_c         | 0.2K_U       | 0.3K_U           |
-| \tau_I      | P_U/2        | P_U/2            |
-| \tau_D      | P_U/2        | P_U/3            |
+| $Z_N$ Setting | no overshoot | Slight Overshoot |
+| ------------- | ------------ | ---------------- |
+| $K_c$         | $0.2K_U$     | $0.3K_U$         |
+| $\tau_I$      | $P_U/2$      | $P_U/2$          |
+| $\tau_D$      | $P_U/2$      | $P_U/3$          |
 
 ##### Using process reaction curve methods
 
-| Z_N Tuning Parameters - Open Loop | P                | PI                  | PID                 |
-| --------------------------------- | ---------------- | ------------------- | ------------------- |
-| K_c                               | (\tau/\tau_d)K_p | 0.9(\tau/\tau_d)K_p | 1.2(\tau/\tau_d)K_p |
-| \tau_I                            | -                | \tau/0.3            | \tau_d/0.5          |
-| \tau_D                            | -                | -                   | 0.5\tau_d           |
+| $Z_N$ Tuning Parameters - Open Loop | $P$                | $PI$                  | $PID$                 |
+| ----------------------------------- | ------------------ | --------------------- | --------------------- |
+| $K_c$                               | $(\tau/\tau_d)K_p$ | $0.9(\tau/\tau_d)K_p$ | $1.2(\tau/\tau_d)K_p$ |
+| $\tau_I$                            | $-$                | $\tau/0.3$            | $\tau_d/0.5$          |
+| $\tau_D$                            | $-$                | $-$                   | $0.5\tau_d$           |
 
 
 
