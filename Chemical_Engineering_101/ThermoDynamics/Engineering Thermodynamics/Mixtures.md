@@ -1,4 +1,3 @@
-
 [[Conservation of Energy]]
 [[Entropy]]
 [[Will Name it Later...]]
@@ -8,6 +7,7 @@
 ## $\Delta M_{mix}$
 
 We are studying the change in extensive properties (e.g., volume, internal energy, Gibbs free energy and entropy) during phase equilibrium processes at constant pressure and temperature, where entropy generation is zero. This is useful for several applications:
+
 - **Chemical equilibrium**: Understanding the behavior of mixture components during reactions in various phases.
 - **Separation processes**: These processes, like liquid-liquid extraction, crystallization, humidification, and distillation, often occur under phase equilibrium conditions.
 

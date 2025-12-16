@@ -20,7 +20,7 @@ graph TD
 $$
 \begin{align*}
 	\Delta_{mix}V &= V - \sum y_iV_i = 0 \\
-	&= \sum yi \bar{V_i} - \sum y_iV_i = 0 \\
+	&= \sum y_i \bar{V_i} - \sum y_iV_i = 0 \\
 	\implies \bar{V_i} &= V_i
 \end{align*}
 $$
